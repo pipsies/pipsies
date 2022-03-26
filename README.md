@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pipsies
 - 👀 I’m interested in video games , cats , dogs & skiing
-- 🌱 I’m currently learning Frontend Engineering
+- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me filipabartlett@gmail.com
 
 <!---
