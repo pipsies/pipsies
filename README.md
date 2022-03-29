@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pipsies
+- 👋 Hi, I’m Pips
 - 👀 I’m interested in video games , cats , dogs & skiing
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m into frontend dev and UI/UX design :)))))))
 - 📫 How to reach me filipafernandesb@hotmail.com
 
 <!---
