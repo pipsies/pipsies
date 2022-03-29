@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pips
-- 👀 I’m interested in video games , cats , dogs & skiing
+- 👋 Hi, I’m Pips🐼
+- ❤️ I’m interested in video games , dogs , cats & skiing  🎮🐶🐱🎿
 - 🌱 I’m into frontend dev and UI/UX design :)))))))
 - 📫 How to reach me filipafernandesb@hotmail.com
 
